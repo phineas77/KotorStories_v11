@@ -1,0 +1,19 @@
+KOTOR STORIES v0.6.1 — prvi pravi audio
+
+- Ugrađena MP3 naracija "Sea Gate" (EN), Max / ElevenLabs, 49,998 s.
+- Originalni demo zvuk je sačuvan: assets/demo_audio_backup/sea-gate-en.demo.mp3
+- Zelena oznaka NEW EN NARRATION aktivna za Sea Gate.
+- Ekran prikazuje kompletan tekst iz content/stories.json (poglavlje 1).
+- Preostale četiri demo stanice i drugi jezici nisu mijenjani.
+- Nije distribuirati komercijalno dok se ne obezbijede prava za generisani audio.
+
+TEST U EXPO GO
+1) Raspakuj u NOVI folder i otvori KotorStories_v06 u VS Code.
+2) npm.cmd install
+3) npx.cmd expo install --fix
+4) npx.cmd expo start --clear
+5) EN > DEMO AT HOME > Reset Progress (ako treba) > SIMULATE ARRIVAL AT NEXT STOP.
+6) Na Sea Gate čuješ snimak oko 50 sekundi i vidiš NEW EN NARRATION.
+7) Ostali audio ostaje probni.
+
+Napomena: Ovo je kompletan testni projekat, ne produkciono objavljivanje.

@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+web-build/
+.env
+*.log
+
+.test-build/
+voice_previews/
+assets/demo_audio_backup/
+*.tmp
+
+server-private/
+*.kse
+node_modules/
+.test-build/
+
+# Local model outputs stay on the author's machine, never in a public git repo
+local_qwen_audio/
+server_qwen_audio/
+.venv-tts/

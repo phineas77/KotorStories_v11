@@ -1,0 +1,16 @@
+{
+  "voiceStyle": "male, calm, classic professional tourist guide",
+  "model": "eleven_multilingual_v2",
+  "installedEnglishChapters": [
+    1
+  ],
+  "licenseVerifiedForCommercialDistribution": false,
+  "notice": "EN Sea Gate MP3 supplied by user and embedded for PRIVATE DEVELOPMENT/TESTING only. Verify commercial rights or regenerate under eligible paid license before shipping.",
+  "lastInstalledUTC": "2026-10-22T18:46:18.476929+00:00",
+  "voiceName": "Max – E-learning and Documentary",
+  "source": "User-provided ElevenLabs development MP3",
+  "englishChapterAudioReady": [
+    1
+  ],
+  "batchNarrationStatus": "Only chapter 01 is included. Chapters 02-29 will be produced with the user-provided ElevenLabs account."
+}

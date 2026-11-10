@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Kotor Stories",
+    "slug": "kotor-stories",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "kotorstories",
+    "ios": {
+      "bundleIdentifier": "me.kotorstories.audio",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "me.kotorstories.audio"
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "enableBackgroundPlayback": true
+        }
+      ]
+    ],
+    "extra": {
+      "releaseReady": false,
+      "googleMapsIosReady": false,
+      "eas": {
+        "projectId": "d768989b-6ec3-46b7-afea-43d3102c38bc"
+      }
+    },
+    "owner": "phineas7"
+  }
+}
