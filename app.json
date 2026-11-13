@@ -8,7 +8,10 @@
     "scheme": "kotorstories",
     "ios": {
       "bundleIdentifier": "me.kotorstories.audio",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "me.kotorstories.audio"

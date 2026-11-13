@@ -1,0 +1,239 @@
+{
+  "language": "fr",
+  "reviewStatus": "ai_editorial_revision_pending_native_review",
+  "model": "Helsinki-NLP/opus-mt-en-fr",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "La Porte de la Mer : bienvenue à Kotor",
+      "text": "La Porte de la Mer constitue la principale entrée occidentale de Kotor. Son aspect actuel remonte à mille cinq cent cinquante-cinq, sous l'administration du gouverneur vénitien Bernardo Renier. La République de Venise gouverna Kotor de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept, une période qui marqua profondément les édifices publics et les fortifications. L'entrée est encadrée de grands blocs de pierre taillée et d'un arc monumental. Son emplacement témoigne aussi du lien entre la ville fortifiée et la baie : avant l'aménagement du front de mer moderne, les navires pouvaient s'approcher beaucoup plus près de la cité. Le port de Kotor la reliait aux places commerciales de toute l'Adriatique. Les marchandises arrivaient par la mer, tandis que les artisans, les marins et les marchands de la ville fournissaient des services aux navires. La Porte de la Mer remplissait donc deux fonctions : contrôler l'accès à la cité fortifiée et relier le port au centre des échanges commerciaux.",
+      "sourceTextSha256": "2a104bcd7207ffbf0bc363a57dec349aaa491388f4b799fda9f74d8570ab39b6",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 2,
+      "title": "La Porte de la Mer : les changements de pouvoir",
+      "text": "La Porte de la Mer a traversé une longue succession de changements politiques. Venise gouverna la ville de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept. Une première période d'administration autrichienne suivit, de mille sept cent quatre-vingt-dix-sept à mille huit cent cinq. Les archives attestent ensuite une administration russe en mille huit cent six et mille huit cent sept, puis une administration française à partir de mille huit cent sept. Ces périodes figurent dans les fonds des Archives historiques de Kotor. La porte elle-même est antérieure à ces bouleversements du dix-neuvième siècle : sa maçonnerie monumentale, de style Renaissance, date du seizième siècle. Les bâtiments et les inscriptions de la vieille ville doivent donc être replacés dans leur contexte plutôt qu'attribués à un seul souverain ou à une seule époque. Le tracé médiéval des rues, les édifices publics vénitiens et les transformations ultérieures coexistent à l'intérieur des mêmes remparts. Les institutions ont changé, mais la situation maritime de Kotor est restée essentielle.",
+      "sourceTextSha256": "3e6db2b0d67aa41c9e408a278726ac50a3673a1dbdb5fddb98d23342a8bfd8c2",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 3,
+      "title": "Les remparts et la mer",
+      "text": "Les fortifications de Kotor ont été construites et remaniées au fil des siècles, approximativement du neuvième au dix-huitième siècle. Selon la municipalité de Kotor, elles s'étendent sur environ quatre kilomètres et demi et certains tronçons atteignent vingt mètres de hauteur. Les remparts ne protégeaient pas seulement les rues proches du rivage. Ils gravissent aussi les pentes escarpées jusqu'à la forteresse Saint-Jean, située à environ deux cent soixante mètres au-dessus du niveau de la mer. Ce dispositif défensif réunissait le port, la ville fortifiée et la montagne en un seul ensemble. Il répondait à l'importance de Kotor comme port marchand et aux tensions militaires dans l'Adriatique orientale. En mille neuf cent soixante-dix-neuf, l'UNESCO a inscrit la Région naturelle et historico-culturelle de Kotor sur la Liste du patrimoine mondial. Sa valeur tient à la fois aux établissements historiques et au paysage de la baie.",
+      "sourceTextSha256": "adb3937cbf32e1d4a614ce8bd15fb71efe3954f67cca1bcb59224e7fe7807419",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 4,
+      "title": "La place d'Armes : le cœur de la ville",
+      "text": "La place d'Armes est la plus vaste place du réseau de rues médiévales de Kotor. Son nom rappelle son rôle militaire, particulièrement durant la domination vénitienne, de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept. Des édifices publics liés au gouverneur et à la garde de la ville donnaient sur la place, qui était à la fois un centre administratif et un lieu de rassemblement. Parmi ses monuments les plus remarquables figurent la tour de l'Horloge, construite en mille six cent deux, et le pilori de pierre voisin. La Porte de la Mer débouche directement dans ce secteur, reliant le port aux institutions de la cité. Kotor n'était pas organisée autour d'une grande avenue cérémonielle. Ses ruelles étroites menaient plutôt à plusieurs places, chacune ayant ses fonctions propres. La place d'Armes était le principal cadre de l'autorité municipale et des annonces publiques.",
+      "sourceTextSha256": "79e07b3ffef0ad9c86f21a72c9df54eabdd501d31540bb5c9a25e1d9861ffafe",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 5,
+      "title": "La tour de l'Horloge",
+      "text": "La tour de l'Horloge de Kotor fut érigée en mille six cent deux, durant le mandat du gouverneur vénitien Antonio Grimaldi. Ses initiales et l'année de construction sont associées à l'inscription en pierre au-dessus de l'entrée. La tour est bâtie avec de grands blocs de pierre à bossage et possède une partie supérieure ouverte, destinée à la cloche et au mécanisme de l'horloge. Un document de mille sept cent quatre-vingt-huit mentionne déjà un mécanisme à poids et un cadran tourné vers la Porte de la Mer. Ce témoignage contredit une ancienne hypothèse selon laquelle la première horloge aurait été installée pendant la période française, de mille huit cent sept à mille huit cent quatorze. Les séismes, notamment celui de mille neuf cent soixante-dix-neuf, ont endommagé et fait pencher la tour. Des travaux ultérieurs ont consolidé ses fondations. En deux mille vingt, la tour, sa cloche et le pilori voisin ont également fait l'objet d'une restauration. Son aspect actuel témoigne ainsi de plus de quatre siècles de construction, d'entretien et de transformations.",
+      "sourceTextSha256": "085786ef4da4f3e0a064267b6ed061e1fa4f1396c2e71f7b2309e0b4e10d837d",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 6,
+      "title": "Le pilori et la place publique",
+      "text": "Le monument de pierre situé devant la tour de l'Horloge est connu sous le nom de pilori, ou Stub srama, le pilier de la honte. Selon la tradition locale, ce lieu servait à exposer publiquement les sanctions et à manifester l'autorité municipale. La structure visible aujourd'hui a été restaurée : il ne faut donc pas la considérer comme un objet médiéval resté intact. Une étude historique de la tour rappelle que la fonction du pilori est connue en partie grâce à la tradition orale, et non par un registre complet des peines qui y auraient été appliquées. Les deux monuments évoquent deux aspects de la vie civique : la tour, construite en mille six cent deux, rythmait le temps public, tandis que le pilori symbolisait l'application des règles. En deux mille vingt, la municipalité de Kotor a fait réaliser des travaux de conservation sur ces deux monuments, illustrant l'importance de leur préservation.",
+      "sourceTextSha256": "55cfba6e34385535ef473eaa22c66d3affc712d8b61e7b2c049c381e160246e5",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 7,
+      "title": "Kotor à l'époque vénitienne et ses palais",
+      "text": "Le palais Bizanti montre comment une résidence noble médiévale pouvait se transformer au fil des générations. Édifié à l'origine au quatorzième siècle, il présente une façade donnant sur la place d'Armes. Après le tremblement de terre de mille six cent soixante-sept, le palais fut considérablement remanié. Un blason et une inscription associés à Nikola Bizanti témoignent de travaux effectués en mille six cent soixante-quatorze. Ses différentes ailes sont reliées par une cour intérieure et un escalier. Les portails, les fenêtres et les détails du puits révèlent des influences de la Renaissance et du baroque. Le palais illustre également la place des familles nobles dans la société de Kotor sous la domination vénitienne, de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept. Elles conservaient un rôle majeur dans la vie économique et civique, même si la République de Venise contrôlait le cadre politique général. Le bâtiment raconte donc plusieurs étapes de transformation, plutôt qu'une seule époque architecturale.",
+      "sourceTextSha256": "e9d883f4d5f7402d46ec284740b2c54c54c067f5d0abbb57cf278bc3244a8570",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 8,
+      "title": "Saint Tryphon, saint patron de Kotor",
+      "text": "Saint Tryphon est vénéré comme patron de Kotor depuis plus de douze siècles. Selon une tradition profondément ancrée dans la ville, ses reliques seraient arrivées à Kotor en huit cent neuf. Les sources relatives au premier sanctuaire associent le noble local Andrija Saracenis à la construction d'un lieu de culte dédié au saint. Sa fête est célébrée le trois février, et les cérémonies sont étroitement liées aux traditions de la Bokeljska mornarica, la confrérie historique des marins des Bouches de Kotor. L'arrivée des reliques figure aussi dans le récit traditionnel des origines de cette confrérie, mais huit cent neuf est une date transmise par la tradition, et non par un acte de fondation conservé. En deux mille vingt et un, l'UNESCO a inscrit le patrimoine culturel de la Bokeljska mornarica au patrimoine culturel immatériel de l'humanité. En deux mille vingt-deux, les festivités de saint Tryphon perpétuées par les Croates des Bouches installés en Croatie ont fait l'objet d'une inscription distincte. Le saint patron relie ainsi foi, mémoire civique et identité maritime.",
+      "sourceTextSha256": "fe977ce3c17981f9db9d3a626145732e270124a432d8896d185c69b81fc70d06",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 9,
+      "title": "Une cathédrale façonnée au fil des siècles",
+      "text": "La cathédrale Saint-Tryphon fut construite à l'emplacement d'un sanctuaire plus ancien, datant du neuvième siècle. Les travaux de l'édifice roman actuel commencèrent en mille cent vingt-quatre et la consécration eut lieu en mille cent soixante-six. Son plan est celui d'une basilique à trois nefs, dont la nef centrale est plus large. La façade occidentale et les clochers d'origine furent profondément modifiés après le séisme de mille six cent soixante-sept, lorsque la reconstruction introduisit des éléments baroques. C'est pourquoi la cathédrale associe aujourd'hui une structure romane à des détails plus récents. Elle n'était pas seulement un lieu de culte. Son trésor, ses sculptures sur pierre et ses œuvres d'art témoignent de la richesse et du savoir-faire artisanal de Kotor au Moyen Âge et à l'époque moderne. Les recherches et les restaurations menées après le séisme de mille neuf cent soixante-dix-neuf ont aussi permis de mieux comprendre les phases anciennes de sa construction. Plus de huit siècles après sa consécration, elle demeure l'église historique la plus marquante de la vieille ville.",
+      "sourceTextSha256": "c87561143d6e66b712626fbb9a65a47d58dffaa983974917e8c615140123d2f2",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 10,
+      "title": "Les séismes qui ont transformé la ville",
+      "text": "Les tremblements de terre ont plusieurs fois transformé l'architecture de Kotor. En mille six cent soixante-sept, un puissant séisme provoqua de graves dégâts sur la côte orientale de l'Adriatique et toucha plusieurs monuments majeurs de la ville. Les clochers romans d'origine et la façade occidentale de la cathédrale furent modifiés lors de la reconstruction. Le palais Bizanti fut lui aussi profondément transformé, et des travaux y sont attestés en mille six cent soixante-quatorze. Un autre séisme dévastateur frappa le littoral monténégrin le quinze avril mille neuf cent soixante-dix-neuf. Il endommagea des églises, des palais et des fortifications, notamment le palais Grgurina, qui abrite le Musée maritime. La reconstruction exigea non seulement de réparer les maçonneries, mais aussi d'étudier les étapes anciennes des bâtiments et de protéger les collections d'art. L'apparence actuelle de Kotor n'est donc pas une image médiévale figée : elle porte également la marque des restaurations entreprises après les catastrophes de mille six cent soixante-sept et de mille neuf cent soixante-dix-neuf.",
+      "sourceTextSha256": "a49fd86f06d14b29182fb1300372afa58a4fcec66a13b9ddc7e93fec6d6c5734",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 11,
+      "title": "La foi, l'art et les orfèvres",
+      "text": "La tradition artistique de Kotor est particulièrement visible dans le trésor de la cathédrale Saint-Tryphon. Il conserve des œuvres de différentes époques, notamment des objets liturgiques réalisés par des orfèvres locaux entre le quatorzième et le dix-huitième siècle. Le ciborium romano-gothique du quatorzième siècle, situé au-dessus du maître-autel, est l'un des principaux éléments médiévaux de la cathédrale. Les collections comprennent aussi des peintures associées à Lovro Marinov Dobričević, artiste du quinzième siècle, et à Tripo Kokolja, peintre du dix-septième siècle. Des fragments de peintures murales attestent de contacts artistiques au-delà de Kotor, notamment avec des maîtres que les sources historiques désignent comme des peintres grecs. Ces œuvres montrent que la ville n'était pas seulement un port de transit : des métiers spécialisés et des traditions artistiques s'y sont développés. L'UNESCO souligne également l'importance des écoles médiévales de taille de pierre et de peinture de la région.",
+      "sourceTextSha256": "d15c27503f4dc60e413cb7d5b58662d2b1f588d8b1fd2d09301e8c4c84401425",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 12,
+      "title": "Le Musée maritime : une ville de navigateurs",
+      "text": "Le Musée maritime du Monténégro trouve son origine dans une collection réunie vers mille huit cent quatre-vingts par la confrérie de la Bokeljska mornarica. Ouverte au public en mille neuf cents, cette collection fut installée dans des salles du palais Grgurina en mille neuf cent trente-huit. L'institution fut réorganisée après la Seconde Guerre mondiale et, de mille neuf cent quarante-neuf à mille neuf cent cinquante-deux, le palais fut adapté à sa fonction muséale. Ces étapes témoignent des efforts de la communauté maritime de Kotor pour préserver sa propre histoire. Le musée conserve des maquettes de navires, des instruments de navigation, des portraits, des cartes, des uniformes et des objets de la vie quotidienne des marins. Il occupe un palais baroque du dix-huitième siècle, un cadre particulièrement adapté à l'histoire d'une ville enrichie par les échanges adriatiques. Endommagé lors du séisme de mille neuf cent soixante-dix-neuf, le bâtiment fut restauré au début des années quatre-vingt. Le musée conserve aujourd'hui la mémoire des liens noués au fil des siècles entre la baie et le monde maritime.",
+      "sourceTextSha256": "83262fdebce9538025e429c7aa7484f0dbcf13315e70434e19682363f33ac091",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 13,
+      "title": "Le palais Grgurina : la vie derrière la façade",
+      "text": "Le Musée maritime occupe le palais Grgurina, construit au début du dix-huitième siècle pour une famille noble liée au commerce adriatique. Sa façade baroque et l'organisation de ses espaces intérieurs le distinguent des maisons médiévales plus modestes des environs. Le palais fut ensuite adapté pour accueillir une collection présentée au public pour la première fois en mille neuf cents. En mille neuf cent trente-huit, celle-ci occupait le premier étage. Entre mille neuf cent quarante-neuf et mille neuf cent cinquante-deux, l'édifice fut entièrement restauré pour l'usage muséal. Selon le lexique d'histoire de l'art de l'Académie monténégrine, Marko Anton Grgurina, dernier membre éminent de la famille, légua le palais à Kotor en mille huit cent quatorze. Le bâtiment passa ainsi d'une résidence noble privée à un usage public, puis à un musée consacré à l'histoire maritime. Les dommages du séisme de mille neuf cent soixante-dix-neuf nécessitèrent une nouvelle restauration, réalisée de mille neuf cent quatre-vingt-deux à mille neuf cent quatre-vingt-quatre. Sur la place Trg Bokeljske mornarice, près du Musée maritime, la boutique de souvenirs Mustrica propose aujourd'hui des objets artisanaux locaux, notamment des créations inspirées de la dentelle traditionnelle de Dobrota. Ouverte en avril deux mille vingt-quatre, elle témoigne de la volonté de préserver ce patrimoine artisanal des Bouches de Kotor.",
+      "sourceTextSha256": "7c6bfc1b3fa3ac273aee396881e24f2924683bf47561fd046e6dab6fa232e850",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 14,
+      "title": "Des Bouches de Kotor au bout du monde",
+      "text": "Le capitaine Ivo Visin, né à Prčanj en mille huit cent six, illustre les liens entre les Bouches de Kotor et le reste du monde. À bord du brick Splendido, qu'il commandait, il quitta Anvers le onze février mille huit cent cinquante-deux et acheva un tour du monde en mille huit cent cinquante-neuf. Son itinéraire le mena au-delà du cap Horn, à travers le Pacifique et les eaux asiatiques, puis autour du cap de Bonne-Espérance. Ce voyage constitua un exploit important dans l'histoire de la marine marchande autrichienne, sous le pavillon de laquelle naviguait le navire. En mille huit cent soixante, Visin reçut le pavillon honorifique Merito navali. Son périple fut exceptionnel, mais s'inscrivait dans une longue tradition maritime. Kotor et les localités côtières voisines formaient des capitaines, des navigateurs et des marchands actifs bien au-delà de l'Adriatique. Les richesses, les connaissances, les livres et les influences artistiques rapportés par le commerce maritime transformèrent les maisons, les églises et la vie quotidienne dans la baie.",
+      "sourceTextSha256": "1d497616adf61151e1cd1ac559fa48b20f856434616da7c74b32979d649fcc7c",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 15,
+      "title": "La Bokeljska mornarica : une tradition toujours vivante",
+      "text": "La Bokeljska mornarica, confrérie maritime historique des Bouches de Kotor, représente l'une des traditions vivantes les plus connues de la ville. Sa fondation est traditionnellement située en huit cent neuf, date liée à l'arrivée des reliques de saint Tryphon. Les plus anciens témoignages écrits conservés sont bien postérieurs : un document de mille trois cent cinquante-trois mentionne une association de marins de Kotor, tandis qu'un statut de mille quatre cent soixante-trois concerne la confrérie de Saint-Nicolas des marins. Au fil des siècles, l'organisation a exercé des fonctions religieuses, économiques, caritatives et militaires. Ses cérémonies actuelles perpétuent des uniformes traditionnels, des armes historiques et la danse en chaîne appelée kolo. En deux mille vingt et un, l'UNESCO a inscrit son patrimoine culturel sur la Liste représentative du patrimoine culturel immatériel de l'humanité. La distinction entre une date traditionnelle et les preuves documentaires permet de célébrer une identité vieille de douze siècles sans perdre la précision historique.",
+      "sourceTextSha256": "1cecb39a576426b7775031a2c803e6e015019586b0600e19cf78a3e6fd3787fa",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 16,
+      "title": "L'église Saint-Luc",
+      "text": "L'église Saint-Luc fut construite en mille cent quatre-vingt-quinze, comme l'atteste une inscription liée à ses fondateurs, Mauro Caccafrangi et son épouse Bona. C'est l'une des plus anciennes églises encore debout à l'intérieur des remparts de Kotor. L'édifice associe des formes romanes à des éléments de l'architecture religieuse byzantine, avec un espace intérieur relativement réduit surmonté d'une coupole. Des fragments de peintures murales médiévales témoignent de sa décoration ancienne. L'iconostase du dix-septième siècle est associée à Dimitrije Daskal, figure importante de la tradition de peinture d'icônes des Bouches. L'église a résisté aux grands séismes qui ont transformé de nombreux sanctuaires voisins, ce qui en fait un témoin précieux de l'architecture médiévale de Kotor. Elle occupe également une place importante dans l'histoire religieuse de la ville, son usage ayant évolué entre les communautés catholique et orthodoxe au cours des siècles suivants.",
+      "sourceTextSha256": "8759bce4864a48ec52c501ea51236deb4a6e166be6011800ff66e9aa7f963df0",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 17,
+      "title": "Deux traditions sous un même toit",
+      "text": "L'église Saint-Luc reflète l'évolution des relations entre les communautés catholique et orthodoxe de Kotor. À l'origine, elle était destinée au culte catholique. Au dix-septième siècle, dans un contexte de guerres régionales et de déplacements de population, elle fut aussi mise à la disposition des fidèles orthodoxes. Un autel catholique fut conservé, si bien que les deux traditions liturgiques coexistèrent dans ce petit édifice pendant une partie de son histoire. Les sources divergent sur les détails et la durée de cet arrangement, mais elles soulignent toutes l'importance des deux autels. Aujourd'hui, l'église est orthodoxe. Son histoire est souvent présentée comme un symbole de coexistence religieuse, mais elle témoigne également des changements politiques, des migrations et de l'évolution des institutions religieuses. Sa fondation en mille cent quatre-vingt-quinze et ses transformations au dix-septième siècle appartiennent à deux étapes historiques distinctes.",
+      "sourceTextSha256": "bbef47fd7593e7210155fb566dc1cee24e43d7120f6c317d2ed36875e0ac01b9",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 18,
+      "title": "La place Saint-Luc et les traditions du carnaval",
+      "text": "Les places de Kotor accueillent depuis longtemps des rassemblements publics, des foires et des fêtes de carnaval. La plus ancienne référence connue au carnaval dans les archives date du onze février mille cinq cent huit. Elle figure dans un contrat de location mentionnant un paiement à effectuer pendant la période du carnaval. Ce document montre qu'au début du seizième siècle, cette fête faisait déjà partie du calendrier annuel de la ville, sans pour autant révéler sa date d'origine. Au fil des siècles, défilés masqués, spectacles humoristiques et tombolas publiques sont devenus des éléments familiers des festivités locales. Les cortèges carnavalesques permettaient aussi de commenter l'actualité grâce aux costumes et à la satire. Ces coutumes appartiennent au patrimoine vivant de Kotor : elles sont transmises par les habitants, et non seulement conservées dans les musées.",
+      "sourceTextSha256": "d9ebb0f8290e3e86b3a69d91eb7c62ddd21e54ebfcae11f66420dce3e4f7df7c",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 19,
+      "title": "L'église Saint-Nicolas : une autre époque",
+      "text": "L'église Saint-Nicolas appartient à une époque bien plus récente que sa voisine médiévale, l'église Saint-Luc. La construction de l'édifice orthodoxe actuel commença en mille neuf cent deux et s'acheva en mille neuf cent neuf. Il remplaça une église plus ancienne, détruite au dix-neuvième siècle. L'architecte Ćiril Iveković était connu pour ses réalisations civiles et religieuses le long de l'Adriatique. La grande façade de l'église et ses deux clochers lui donnent une place particulière dans le nord de la vieille ville. Son iconostase fut achevée en mille neuf cent huit par des artisans tchèques. Les dates mille neuf cent deux, mille neuf cent huit et mille neuf cent neuf permettent de suivre les principales étapes de sa construction. Cet édifice rappelle que le centre historique de Kotor a continué de se transformer et d'accueillir de nouvelles architectures religieuses jusque dans le vingtième siècle.",
+      "sourceTextSha256": "eb1f25914e5835ec1358de456cc823e4b744c096d78148606e9c0902521380e8",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 20,
+      "title": "La porte du Fleuve : l'entrée nord",
+      "text": "L'entrée nord de Kotor, également appelée porte du Fleuve, donne sur la rivière Škurda. Avec la Porte de la Mer à l'ouest et la porte de Gurdić au sud, elle constitue l'un des trois principaux accès à la ville fortifiée. Reconstruite en mille cinq cent quarante sous la domination vénitienne, la porte du Fleuve commémore la défense de Kotor face à la flotte de Hayreddin Barberousse, en mille cinq cent trente-neuf. L'entrée était autrefois équipée d'un pont-levis relié au pont de pierre qui franchit la Škurda, afin de pouvoir limiter le passage en cas de danger. Les blasons et les inscriptions de pierre près de la porte portent encore les dates mille cinq cent trente-neuf et mille cinq cent quarante. Ce site montre comment les fortifications de Kotor associaient maçonnerie, cours d'eau et points d'accès contrôlés pour défendre la cité.",
+      "sourceTextSha256": "c7993c873099250df62e93481adb748099cd5082d3be574f6c30c6c07aaabebb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 21,
+      "title": "La rivière Škurda",
+      "text": "La Škurda borde une partie du nord de Kotor et joue un rôle caractéristique dans son paysage défensif. Les remparts ont été disposés de manière à tirer parti de la montagne, de la baie et des cours d'eau voisins. Cette combinaison aide à comprendre pourquoi les fortifications ont été agrandies et modifiées approximativement du neuvième au dix-huitième siècle. L'eau influençait aussi la vie quotidienne. La ville avait besoin de ressources en eau sûres, tandis que les canaux, les débouchés et les ponts déterminaient les déplacements et l'entretien des espaces urbains. L'importance de ce cadre naturel est reconnue par l'inscription de Kotor au patrimoine mondial de l'UNESCO en mille neuf cent soixante-dix-neuf. La description du site ne concerne pas uniquement les monuments : elle souligne aussi la relation entre les établissements côtiers et une baie entourée de montagnes escarpées. La Škurda fait partie de ce lien étroit entre la géographie et l'architecture.",
+      "sourceTextSha256": "9597bd625680585e7ea2bfc796567c5ec10f6ca806f3c3addddbbb92839033a6",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 22,
+      "title": "Les remparts qui gravissent la montagne",
+      "text": "Les remparts s'élèvent au-dessus de la vieille ville jusqu'à la forteresse Saint-Jean, à environ deux cent soixante mètres au-dessus du niveau de la mer. Ils résultent de nombreuses phases de construction, entre le neuvième et le dix-huitième siècle environ. D'après la municipalité de Kotor, l'ensemble du système fortifié mesure près de quatre kilomètres et demi. Certains tronçons atteignent vingt mètres de hauteur, et leur épaisseur varie selon l'emplacement et la fonction. Ces dimensions montrent l'ampleur des travaux entrepris pour une ville portuaire relativement compacte. Les défenses devaient protéger les rues habitées en contrebas, mais aussi les accès par la montagne. Pendant la domination vénitienne, de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept, Kotor appartenait à un réseau défensif plus vaste sur l'Adriatique. Aujourd'hui, les remparts sont une composante essentielle du paysage classé au patrimoine mondial. Leur préservation reste toutefois un travail de longue haleine.",
+      "sourceTextSha256": "a89ea4eb3e03cbbb42bc999423cd727b6bf45478dd9ac04235064056e4052f03",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 23,
+      "title": "Karampana : la fontaine et la vie du quartier",
+      "text": "Karampana est le nom d'une fontaine publique historique et d'un lieu de rencontre dans la vieille ville de Kotor. Selon les récits locaux, la fontaine remonterait au dix-septième siècle. Avant l'arrivée de l'eau dans chaque logement, les fontaines publiques jouaient un rôle essentiel dans les tâches domestiques et les échanges entre voisins. On se souvient de Karampana comme d'un lieu où l'on puisait de l'eau tout en échangeant les nouvelles. Ce nom appartient aussi à la tradition humoristique et carnavalesque de la ville : un journal satirique intitulé Karampana a raconté les habitants et les événements locaux. Ces traditions ne prouvent toutefois pas une date de fondation précise de la fontaine, qui demanderait une vérification spécialisée. Elles montrent néanmoins l'importance de ces petits espaces publics dans une ville aux ruelles bordées de maisons, d'ateliers et de boutiques. Karampana témoigne ainsi de la vie quotidienne et communautaire de Kotor.",
+      "sourceTextSha256": "fa704eddd0a06667e04f6087c12750b5c23536a38e22b7ab6eeb3390211773b8",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 24,
+      "title": "Les palais et les familles nobles",
+      "text": "Les palais de Kotor conservent le souvenir des familles nobles qui influençaient la vie publique et le commerce. Le palais Drago, face à la place Saint-Tryphon, remonte aux quatorzième et quinzième siècles et présente encore des éléments gothiques. Le blason familial comporte un dragon, motif que l'on retrouve dans la décoration de pierre. Le palais Bizanti date du quatorzième siècle et fut profondément remanié après le séisme de mille six cent soixante-sept ; la date de mille six cent soixante-quatorze est liée à sa reconstruction. Le palais Pima appartient au dix-septième siècle et se distingue par son balcon richement sculpté et ses armoiries. Ces bâtiments ne sont pas de simples démonstrations de richesse : chacun possède une histoire architecturale et une relation particulière avec les rues qui l'entourent. Ensemble, ils montrent comment les familles nobles faisaient travailler les artisans locaux et contribuèrent à façonner la ville pendant des siècles.",
+      "sourceTextSha256": "064d3b83ee61a35a9fbc1e5b659eb42a0329b87d3c37fd54a4dcc4d38a633cdb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 25,
+      "title": "La place de la Farine et le palais Pima",
+      "text": "La place de la Farine, appelée localement Pjaca od brašna, tire son nom du commerce quotidien des denrées alimentaires et des provisions. Son monument le plus remarquable est le palais Pima, résidence du dix-septième siècle mêlant Renaissance et baroque. Un large balcon de pierre repose sur douze consoles sculptées, tandis que sa balustrade en fer témoigne du savoir-faire local des métalliers. Au-dessus de l'entrée principale, deux anges sculptés soutiennent les armoiries de la famille Pima. Le palais fut restauré après le séisme de mille neuf cent soixante-dix-neuf. D'autres maisons voisines appartenaient à des familles actives dans le commerce et la vie publique de Kotor. La place réunit ainsi deux aspects de l'histoire urbaine : la circulation des produits de première nécessité et l'affichage de la richesse des familles influentes. Les deux reposaient sur le travail des artisans, des transporteurs, des marchands et des fournisseurs, dont les noms apparaissent rarement dans les récits touristiques.",
+      "sourceTextSha256": "4403310f2c1243db77b5b42435623db71a8b3918001f816249a52e11e5f6eacf",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 26,
+      "title": "Les artisans qui ont façonné Kotor",
+      "text": "Les bâtiments de Kotor témoignent du travail des tailleurs de pierre, des charpentiers, des orfèvres et de nombreux autres artisans qualifiés. L'UNESCO souligne notamment les traditions médiévales de taille de pierre et de peinture dans la région. Un autre savoir-faire s'est développé à Dobrota, localité maritime voisine de Kotor : la dentelle de Dobrota, une forme particulière de broderie réalisée à la main. Des pièces anciennes servaient au linge de cérémonie, aux textiles domestiques et aux ornements des églises. Cette technique, étroitement liée aux femmes des familles de marins, s'est transmise de génération en génération. Elle témoigne d'adaptations locales des traditions de broderie et de dentelle diffusées dans l'Adriatique. La confection de cette dentelle est officiellement protégée comme élément du patrimoine culturel immatériel du Monténégro. Des exemples sont conservés dans des églises et des musées, tandis que des ateliers continuent à enseigner la technique. Ce savoir-faire fait partie du patrimoine de la baie au même titre que les palais et les navires qui ont fait la renommée de Kotor.",
+      "sourceTextSha256": "e8c1cb7d7f830eb6e4d7a4e2bdf4f24610ac97746dfd9cbe65f66f135cee85af",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 27,
+      "title": "Kotor au quotidien : chats et douceurs traditionnelles",
+      "text": "Les chats sont un emblème officieux de Kotor, mais le patrimoine quotidien de la ville comprend également ses pâtisseries traditionnelles. La kotorska pašta, version locale de la krempita, est appréciée pour ses couches de pâte croustillante et de crème jaune à la vanille. Elle était particulièrement associée à l'ancienne pâtisserie Zdravljak, près de la place Saint-Tryphon, où plusieurs générations d'habitants venaient l'acheter. La recette traditionnelle comprend trois couches de pâte. Des ateliers organisés en deux mille dix-neuf ont contribué à préserver et à transmettre cette recette. Une autre spécialité vient de Dobrota : la dobrotska torta, préparée avec des amandes, des œufs et notamment de la liqueur de marasquin et du zeste de citron. Elle était traditionnellement servie lors des mariages et des grandes fêtes familiales ou religieuses, comme Noël et Pâques. Le savoir-faire de ce gâteau, appelé aussi gâteau de Dobrota-Perast, figure officiellement au patrimoine culturel immatériel du Monténégro. Ces desserts racontent les goûts et les coutumes familiales de la baie, tout comme les palais témoignent de son architecture.",
+      "sourceTextSha256": "2ad8765c4840e89c7e6f81c34240af88863de56bc6fd002d70f3c7db9fab0b4d",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 28,
+      "title": "Le séisme de mille neuf cent soixante-dix-neuf et la reconstruction",
+      "text": "Le quinze avril mille neuf cent soixante-dix-neuf, un violent tremblement de terre frappa la côte monténégrine et endommagea gravement les bâtiments historiques de Kotor. Églises, palais, remparts et collections des musées nécessitèrent d'importantes interventions. Cette catastrophe coïncida avec une décision internationale majeure : en mille neuf cent soixante-dix-neuf, l'UNESCO inscrivit la Région naturelle et historico-culturelle de Kotor sur la Liste du patrimoine mondial. Le site fut également inscrit sur la Liste du patrimoine mondial en péril, où il resta jusqu'en deux mille trois. La sauvegarde mobilisa des acteurs locaux et internationaux, notamment avec la création, en mille neuf cent quatre-vingts, d'un institut municipal chargé de la protection du patrimoine. Le palais Grgurina, siège du Musée maritime, fut largement restauré entre mille neuf cent quatre-vingt-deux et mille neuf cent quatre-vingt-quatre, permettant aux collections de retrouver leur place dans les salles d'exposition. La reconstruction ne se limita donc pas aux bâtiments : elle modifia aussi les méthodes de documentation, de gestion et de préservation du patrimoine historique de la ville.",
+      "sourceTextSha256": "cd07d7b2c6a828028b40a7cac770a2b8a1aae32a96b31227ad632685af396fdb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 29,
+      "title": "Kotor aujourd'hui : une histoire qui continue",
+      "text": "Le centre historique de Kotor est le fruit de plus de mille ans de constructions, d'échanges commerciaux, de pratiques religieuses et de transformations culturelles. Parmi ses premières églises figurent le sanctuaire du neuvième siècle lié à saint Tryphon, la cathédrale consacrée en mille cent soixante-six et l'église Saint-Luc, construite en mille cent quatre-vingt-quinze. La domination vénitienne, de mille quatre cent vingt à mille sept cent quatre-vingt-dix-sept, a profondément marqué les édifices publics et les palais. Le séisme de mille neuf cent soixante-dix-neuf a entraîné de vastes restaurations et l'inscription de la région au patrimoine mondial de l'UNESCO. Mais l'héritage de Kotor vit également à travers les traditions. Le patrimoine de la Bokeljska mornarica a été inscrit par l'UNESCO en deux mille vingt et un, tandis que les archives évoquent déjà les coutumes du carnaval en mille cinq cent huit. Aujourd'hui, ces monuments et ces pratiques coexistent avec la vie quotidienne des habitants et le tourisme. Préserver Kotor signifie protéger son architecture, soutenir ses communautés et transmettre une histoire aussi exacte que possible aux générations futures.",
+      "sourceTextSha256": "76aa300f97dbe8242eb37ee6dd97a39f1a113b6da9468def010bab414f30f934",
+      "qualityFlags": [],
+      "humanReviewed": false
+    }
+  ]
+}

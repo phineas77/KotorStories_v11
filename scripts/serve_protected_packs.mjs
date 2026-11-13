@@ -45,7 +45,7 @@ for(const lang of langs){
  const key=Buffer.from(keys[lang]||'', 'base64');
  if(key.length!==32) throw new Error('Invalid persisted encryption key for '+lang);
  const entries=[];
- for(const [chapter,slug] of (audioSource === 'qwen' && lang === 'en' ? productionChapters : audioSource === 'qwen' ? [] : stops)){
+ for(const [chapter,slug] of (audioSource === 'qwen' ? productionChapters : stops)){
   const source = audioSource === 'qwen' ? join(qwenRoot,lang,`${String(chapter).padStart(2,'0')}.mp3`) : join(audioRoot,`${slug}-${lang}.mp3`);
   if(!existsSync(source)) continue;
   const nonce=randomBytes(12), cipher=createCipheriv('aes-256-gcm',key,nonce);
@@ -86,7 +86,7 @@ const server=createServer(async(req,res)=>{
 });
 server.listen(port,'0.0.0.0',()=>{
  console.log('Kotor Stories · ENCRYPTED LOCAL DEMO · NEVER EXPOSE TO PUBLIC INTERNET');
- console.log('Source mode: ' + audioSource + (audioSource === 'qwen' ? ' (only staged Qwen English files; no ElevenLabs fallback)' : ' (original test audio)'));
+ console.log('Source mode: ' + audioSource + (audioSource === 'qwen' ? ' (staged local audio per language; no ElevenLabs fallback)' : ' (original test audio)'));
  for(const nets of Object.values(networkInterfaces()))for(const n of nets||[])if(n.family==='IPv4'&&!n.internal)console.log(`URL for iPhone: http://${n.address}:${port}`);
  console.log('Audio served: ENCRYPTED .kse only, auth required. Offline AES keys persisted in server-private/.');
 });

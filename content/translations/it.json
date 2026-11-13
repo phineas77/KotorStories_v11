@@ -1,0 +1,240 @@
+{
+  "language": "it",
+  "reviewStatus": "ai_editorial_revision_pending_native_review",
+  "model": "Helsinki-NLP/opus-mt-en-it",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Porta del Mare: introduzione a Cattaro",
+      "text": "La Porta del Mare è il principale ingresso occidentale di Cattaro, oggi Kotor. Il suo aspetto attuale risale al 1555, durante il governo del provveditore veneziano Bernardo Renier. La Repubblica di Venezia amministrò la città dal 1420 al 1797, lasciando un'impronta duratura sugli edifici pubblici e sulle fortificazioni. L'ingresso è formato da grandi blocchi di pietra lavorata e da un arco monumentale. La sua posizione testimonia lo stretto legame tra la città murata e la baia: prima della realizzazione del lungomare moderno, le imbarcazioni potevano avvicinarsi molto di più alle mura. Il porto collegava Cattaro agli scali commerciali di tutto l'Adriatico. Le merci arrivavano via mare, mentre artigiani, marinai e mercanti della città fornivano servizi alle navi. La Porta del Mare aveva quindi una doppia funzione: controllare l'accesso alla città fortificata e collegare il porto al centro degli scambi commerciali.",
+      "sourceTextSha256": "2a104bcd7207ffbf0bc363a57dec349aaa491388f4b799fda9f74d8570ab39b6",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 2,
+      "title": "Porta del Mare: i cambiamenti di governo",
+      "text": "La storia della Porta del Mare si inserisce in una lunga successione di cambiamenti politici. Venezia governò Cattaro dal 1420 al 1797; seguì una prima amministrazione austriaca, dal 1797 al 1805. La presenza dell'amministrazione russa è documentata nel 1806 e nel 1807, mentre il periodo francese ebbe inizio nel 1807. Queste date compaiono nella documentazione dell'Archivio storico di Cattaro. La porta è tuttavia precedente a quei passaggi di potere: la sua monumentale struttura in pietra, di gusto rinascimentale, risale al Cinquecento. Per comprendere gli edifici e le iscrizioni del centro storico occorre quindi distinguere le diverse epoche. L'impianto viario medievale, i palazzi civici veneziani e gli interventi successivi convivono all'interno delle stesse mura. La città cambiò più volte amministrazione, ma conservò la propria posizione strategica sul mare.",
+      "sourceTextSha256": "3e6db2b0d67aa41c9e408a278726ac50a3673a1dbdb5fddb98d23342a8bfd8c2",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 3,
+      "title": "Le mura e il mare",
+      "text": "Le fortificazioni di Cattaro furono costruite e modificate nell'arco di molti secoli, approssimativamente dal IX al XVIII secolo. Secondo il Comune di Kotor, il complesso si estende per circa 4,5 chilometri e in alcuni punti le mura raggiungono i venti metri di altezza. La difesa non riguardava soltanto le strade vicine al mare: le fortificazioni risalgono anche i ripidi pendii fino alla fortezza di San Giovanni, situata a circa 260 metri sul livello del mare. Porto, città fortificata e montagna formavano così un unico sistema difensivo. La necessità di proteggerli rifletteva l'importanza commerciale di Cattaro e le tensioni militari nell'Adriatico orientale. Nel 1979 l'UNESCO ha iscritto la Regione naturale e storico-culturale di Cattaro nella Lista del Patrimonio Mondiale, riconoscendo il valore sia degli insediamenti storici sia del paesaggio della baia.",
+      "sourceTextSha256": "adb3937cbf32e1d4a614ce8bd15fb71efe3954f67cca1bcb59224e7fe7807419",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 4,
+      "title": "Piazza d'Armi: il cuore della città",
+      "text": "Piazza d'Armi è la piazza più ampia della rete di strade medievali di Cattaro. Il nome ricorda la sua funzione militare, particolarmente importante durante il governo veneziano, dal 1420 al 1797. Sulla piazza si affacciavano edifici legati al rappresentante della Repubblica e alla guardia cittadina: era quindi un centro amministrativo, oltre che un luogo di vita pubblica. Tra i monumenti principali si trovano la Torre dell'Orologio, costruita nel 1602, e la vicina gogna in pietra, conosciuta localmente come Stub srama. La Porta del Mare conduce direttamente a questa zona, collegando il porto alle istituzioni cittadine. L'organizzazione urbana di Cattaro non ruotava intorno a un unico viale cerimoniale: le stradine conducevano a piazze diverse, ciascuna con funzioni proprie. Piazza d'Armi era il luogo centrale dell'autorità civica e degli annunci pubblici.",
+      "sourceTextSha256": "79e07b3ffef0ad9c86f21a72c9df54eabdd501d31540bb5c9a25e1d9861ffafe",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 5,
+      "title": "La Torre dell'Orologio",
+      "text": "La Torre dell'Orologio di Cattaro fu costruita nel 1602, durante il mandato del provveditore veneziano Antonio Grimaldi. Le sue iniziali e l'anno di costruzione sono collegati all'iscrizione in pietra posta sopra l'ingresso. La torre è realizzata con grandi blocchi di pietra a bugnato; nella parte superiore trovano posto la campana e il meccanismo dell'orologio. Un documento del 1788 menziona già un meccanismo a pesi e un quadrante rivolto verso la Porta del Mare. Questo dato contraddice una vecchia ipotesi che faceva risalire la prima installazione dell'orologio al periodo francese, dal 1807 al 1814. La torre subì danni e inclinazioni a causa dei terremoti, compreso quello del 1979; successivi interventi consolidarono le fondamenta. Nel 2020 furono eseguiti anche lavori di restauro della torre, della campana e della vicina gogna. L'aspetto attuale è il risultato di oltre quattro secoli di uso, riparazioni e conservazione.",
+      "sourceTextSha256": "085786ef4da4f3e0a064267b6ed061e1fa4f1396c2e71f7b2309e0b4e10d837d",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 6,
+      "title": "La gogna e la piazza pubblica",
+      "text": "Il monumento in pietra davanti alla Torre dell'Orologio è conosciuto come gogna, o Stub srama, cioè pilastro della vergogna. La tradizione locale lo collega all'esposizione pubblica delle pene e all'esercizio dell'autorità cittadina. La struttura oggi visibile è stata restaurata e non può essere considerata un manufatto medievale rimasto del tutto intatto. Uno studio storico sulla torre ricorda inoltre che parte delle informazioni sulla gogna deriva dalla tradizione orale, più che da una documentazione completa delle singole condanne eseguite in questo luogo. I due monumenti rappresentavano funzioni differenti della vita pubblica: la torre, costruita nel 1602, scandiva il tempo cittadino; la gogna richiamava invece l'applicazione delle norme. Nel 2020 il Comune di Kotor ha promosso interventi di conservazione su entrambi. Anche questi lavori fanno parte della storia recente della tutela del patrimonio urbano.",
+      "sourceTextSha256": "55cfba6e34385535ef473eaa22c66d3affc712d8b61e7b2c049c381e160246e5",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 7,
+      "title": "Cattaro veneziana e i suoi palazzi",
+      "text": "Palazzo Bizanti mostra come una residenza nobiliare medievale potesse trasformarsi nel corso delle generazioni. L'edificio risale al XIV secolo e presenta una facciata affacciata su Piazza d'Armi. Dopo il terremoto del 1667 fu sottoposto a importanti modifiche; uno stemma e un'iscrizione legati a Nikola Bizanti ricordano interventi eseguiti nel 1674. Le diverse ali del palazzo sono collegate da un cortile interno e da una scala, mentre portali, finestre e dettagli del pozzo testimoniano influenze rinascimentali e barocche. La residenza riflette anche l'organizzazione sociale della città durante il dominio veneziano, dal 1420 al 1797. Le famiglie nobili conservarono un ruolo di rilievo nella vita economica e civica, pur all'interno delle istituzioni controllate dalla Repubblica. Il palazzo non appartiene quindi a un'unica fase architettonica: è il risultato di una lunga successione di trasformazioni.",
+      "sourceTextSha256": "e9d883f4d5f7402d46ec284740b2c54c54c067f5d0abbb57cf278bc3244a8570",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 8,
+      "title": "San Trifone, patrono di Cattaro",
+      "text": "San Trifone è venerato come patrono di Cattaro da oltre dodici secoli. Secondo una tradizione radicata nella città, le sue reliquie giunsero qui nell'809. Le fonti relative al primo luogo di culto collegano il nobile locale Andrija Saracenis alla costruzione di un antico santuario dedicato al santo. La festa di San Trifone si celebra il 3 febbraio ed è strettamente legata alle cerimonie della Bokeljska mornarica, la storica confraternita marinara delle Bocche di Cattaro. L'arrivo delle reliquie compare anche nel racconto tradizionale delle origini della confraternita, sebbene per l'809 non si conservi un atto di fondazione. Nel 2021 l'UNESCO ha iscritto il patrimonio culturale della Bokeljska mornarica nella Lista rappresentativa del patrimonio culturale immateriale dell'umanità. Nel 2022 sono state iscritte separatamente le celebrazioni di San Trifone mantenute dai croati delle Bocche in Croazia. La figura del patrono unisce così devozione religiosa, memoria civica e identità marittima.",
+      "sourceTextSha256": "fe977ce3c17981f9db9d3a626145732e270124a432d8896d185c69b81fc70d06",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 9,
+      "title": "Una cattedrale attraverso i secoli",
+      "text": "La Cattedrale di San Trifone sorge sul luogo di un santuario più antico, risalente al IX secolo. La costruzione dell'attuale edificio romanico iniziò nel 1124 e la consacrazione avvenne nel 1166. La pianta è quella di una basilica a tre navate, con la navata centrale più ampia delle laterali. La facciata occidentale e i campanili originari subirono importanti modifiche dopo il terremoto del 1667, quando la ricostruzione introdusse anche elementi barocchi. Da qui deriva la compresenza di strutture romaniche e dettagli di epoche successive. La cattedrale non era soltanto un luogo di culto: il tesoro, le sculture in pietra e le opere d'arte testimoniano la ricchezza e le capacità artigianali della Cattaro medievale e moderna. Gli studi e i restauri successivi al terremoto del 1979 hanno inoltre chiarito alcune fasi più antiche dell'edificio. A oltre otto secoli dalla consacrazione, rimane una delle principali testimonianze storiche della città vecchia.",
+      "sourceTextSha256": "c87561143d6e66b712626fbb9a65a47d58dffaa983974917e8c615140123d2f2",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 10,
+      "title": "I terremoti che hanno cambiato il profilo della città",
+      "text": "I terremoti hanno modificato più volte l'architettura di Cattaro. Nel 1667 un forte sisma colpì l'Adriatico orientale e danneggiò diversi edifici importanti della città. I campanili romanici originari e la facciata occidentale della Cattedrale di San Trifone furono trasformati durante la ricostruzione. Anche Palazzo Bizanti subì modifiche sostanziali; alcuni lavori sono documentati nel 1674. Un altro terremoto devastante colpì la costa montenegrina il 15 aprile 1979, danneggiando chiese, palazzi e fortificazioni, tra cui Palazzo Grgurina, sede del Museo Marittimo. La ricostruzione richiese non soltanto riparazioni murarie, ma anche lo studio delle fasi edilizie precedenti e la protezione delle collezioni artistiche. Il volto attuale del centro storico non è quindi un'immagine medievale rimasta immutata: comprende restauri e ricostruzioni eseguiti dopo i grandi sismi del 1667 e del 1979.",
+      "sourceTextSha256": "a49fd86f06d14b29182fb1300372afa58a4fcec66a13b9ddc7e93fec6d6c5734",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 11,
+      "title": "Fede, arte e oreficeria",
+      "text": "La tradizione artistica di Cattaro è particolarmente evidente nel tesoro della Cattedrale di San Trifone. Vi sono conservate opere di epoche diverse, compresi oggetti liturgici realizzati da orafi locali tra il XIV e il XVIII secolo. Il ciborio romanico-gotico del Trecento, posto sopra l'altare maggiore, è uno degli elementi medievali più notevoli. Le collezioni comprendono anche dipinti legati a Lovro Marinov Dobričević, artista del Quattrocento, e a Tripo Kokolja, pittore del Seicento. Frammenti di pitture murali testimoniano contatti con tradizioni artistiche esterne, comprese quelle di maestri indicati dalle fonti come pittori greci. Queste opere ricordano che Cattaro non era soltanto un porto di transito: era anche un centro di produzione artigianale e artistica. Il valore delle scuole medievali di lavorazione della pietra e di pittura della regione è riconosciuto anche dall'UNESCO.",
+      "sourceTextSha256": "d15c27503f4dc60e413cb7d5b58662d2b1f588d8b1fd2d09301e8c4c84401425",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 12,
+      "title": "Museo Marittimo: la città dei marinai",
+      "text": "Il Museo Marittimo del Montenegro nacque da una raccolta di oggetti riunita dalla confraternita marinara delle Bocche di Cattaro intorno al 1880. La collezione fu aperta al pubblico nel 1900 e nel 1938 trovò spazio nelle sale di Palazzo Grgurina. Dopo la Seconda guerra mondiale l'istituzione venne riorganizzata; tra il 1949 e il 1952 il palazzo fu adattato alla funzione museale. Queste tappe mostrano l'impegno della comunità marittima locale nel conservare la propria storia. Le raccolte comprendono modelli di navi, strumenti di navigazione, ritratti, carte nautiche, uniformi e oggetti della vita quotidiana dei marinai. Il museo ha sede in un palazzo barocco del Settecento, legato alla ricchezza prodotta dai commerci adriatici. L'edificio fu danneggiato dal terremoto del 1979 e restaurato nei primi anni Ottanta del Novecento. Oggi il museo documenta i rapporti sviluppati nei secoli tra la baia e il mondo della navigazione.",
+      "sourceTextSha256": "83262fdebce9538025e429c7aa7484f0dbcf13315e70434e19682363f33ac091",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 13,
+      "title": "Palazzo Grgurina: la vita dietro la facciata",
+      "text": "Il Museo Marittimo occupa Palazzo Grgurina, costruito all'inizio del XVIII secolo per una famiglia nobile legata ai commerci dell'Adriatico. La facciata barocca e la disposizione degli spazi interni lo distinguono dalle più compatte abitazioni medievali della zona. Il palazzo venne successivamente destinato a ospitare la raccolta museale, aperta al pubblico per la prima volta nel 1900. Nel 1938 la collezione occupava il primo piano; tra il 1949 e il 1952 l'edificio fu ristrutturato per la nuova funzione. Secondo il lessico storico-artistico dell'Accademia montenegrina, Marko Anton Grgurina lasciò il palazzo alla città nel 1814. In questo modo la residenza passò dall'uso privato a quello pubblico. Dopo i danni del terremoto del 1979 furono necessari ulteriori restauri, svolti tra il 1982 e il 1984. Nella piazza chiamata Trg Bokeljske mornarice, accanto al Museo Marittimo, si trova oggi la bottega di souvenir Mustrica, inaugurata nell'aprile 2024. Propone oggetti artigianali locali e creazioni ispirate al tradizionale merletto di Dobrota.",
+      "sourceTextSha256": "7c6bfc1b3fa3ac273aee396881e24f2924683bf47561fd046e6dab6fa232e850",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 14,
+      "title": "Dalle Bocche di Cattaro al mondo",
+      "text": "Tra i protagonisti della storia marittima delle Bocche di Cattaro figura il capitano Ivo Visin, nato a Prčanj nel 1806. Al comando del brigantino Splendido, partì da Anversa l'11 febbraio 1852 e concluse un viaggio intorno al mondo nel 1859. La rotta lo portò oltre Capo Horn, attraverso il Pacifico e le acque asiatiche, fino al Capo di Buona Speranza. Fu un risultato importante per la marina mercantile austriaca, sotto la cui bandiera navigava la nave. Nel 1860 Visin ricevette il vessillo onorifico Merito navale. Il suo viaggio fu un'impresa eccezionale, ma si inseriva in una tradizione molto più ampia: Cattaro e gli insediamenti costieri vicini formavano capitani, navigatori e mercanti attivi ben oltre l'Adriatico. Denaro, conoscenze, libri e gusti artistici riportati dai traffici marittimi contribuirono a trasformare case, chiese e vita quotidiana della baia.",
+      "sourceTextSha256": "1d497616adf61151e1cd1ac559fa48b20f856434616da7c74b32979d649fcc7c",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 15,
+      "title": "Bokeljska mornarica: una tradizione viva",
+      "text": "La Bokeljska mornarica, storica confraternita marinara delle Bocche di Cattaro, è una delle tradizioni viventi più note della città. La sua fondazione viene tradizionalmente fatta risalire all'809, anno associato all'arrivo delle reliquie di San Trifone. Le testimonianze scritte conservate sono però molto posteriori: un documento del 1353 menziona un'associazione di marinai di Cattaro, mentre uno statuto del 1463 riguarda la confraternita di San Nicola dei marinai. Nel corso dei secoli l'organizzazione svolse funzioni religiose, economiche, assistenziali e militari. Le cerimonie odierne conservano uniformi tradizionali, armi storiche e il caratteristico ballo collettivo, il kolo. Nel 2021 l'UNESCO ha inserito il suo patrimonio culturale nella Lista rappresentativa del patrimonio culturale immateriale dell'umanità. Distinguere la data tramandata dalla documentazione conservata permette di raccontare questa identità secolare con maggiore precisione storica.",
+      "sourceTextSha256": "1cecb39a576426b7775031a2c803e6e015019586b0600e19cf78a3e6fd3787fa",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 16,
+      "title": "La chiesa di San Luca",
+      "text": "La chiesa di San Luca fu costruita nel 1195, come attesta un'iscrizione legata ai fondatori, Mauro Caccafrangi e sua moglie Bona. È una delle chiese più antiche ancora esistenti entro le mura di Cattaro. L'edificio combina forme romaniche con elementi dell'architettura religiosa bizantina e presenta uno spazio interno raccolto, sormontato da una cupola. Si conservano frammenti di pittura murale medievale, testimonianza delle decorazioni originarie. L'iconostasi seicentesca è associata a Dimitrije Daskal, figura importante della tradizione iconografica delle Bocche. La chiesa ha resistito ai grandi terremoti che hanno trasformato molti edifici religiosi vicini e rappresenta quindi una fonte preziosa per lo studio dell'architettura medievale locale. Occupa inoltre un posto significativo nella storia religiosa della città, poiché nei secoli successivi il suo uso cambiò tra le comunità cattolica e ortodossa.",
+      "sourceTextSha256": "8759bce4864a48ec52c501ea51236deb4a6e166be6011800ff66e9aa7f963df0",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 17,
+      "title": "Due tradizioni sotto lo stesso tetto",
+      "text": "La chiesa di San Luca testimonia l'evoluzione dei rapporti tra le comunità cattolica e ortodossa di Cattaro. In origine era destinata al culto cattolico. Nel XVII secolo, segnato da conflitti regionali e spostamenti di popolazione, venne messa anche a disposizione dei fedeli ortodossi. Fu mantenuto un altare cattolico, e per una parte della sua storia entrambe le tradizioni liturgiche furono rappresentate nello stesso piccolo edificio. Le fonti non concordano su tutti i dettagli e sulla durata di questa convivenza, ma riconoscono l'importanza della presenza dei due altari. Oggi la chiesa è ortodossa. La sua vicenda viene spesso considerata un simbolo di coesistenza religiosa; riflette però anche i cambiamenti politici, le migrazioni e l'evoluzione delle istituzioni ecclesiastiche. La fondazione nel 1195 e le trasformazioni del Seicento appartengono a fasi storiche distinte e ugualmente importanti.",
+      "sourceTextSha256": "bbef47fd7593e7210155fb566dc1cee24e43d7120f6c317d2ed36875e0ac01b9",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 18,
+      "title": "Piazza San Luca e il carnevale di Cattaro",
+      "text": "Le piazze di Cattaro sono da secoli luoghi di incontri pubblici, mercati e feste di carnevale. Il più antico riferimento archivistico noto al carnevale è datato 11 febbraio 1508: compare in un contratto di locazione che prevede un pagamento nel periodo carnevalesco. Il documento dimostra che all'inizio del Cinquecento la ricorrenza faceva già parte del calendario cittadino, ma non permette di stabilirne l'origine. Nei secoli successivi le sfilate in maschera, gli spettacoli umoristici e le tombole pubbliche divennero elementi familiari delle celebrazioni locali. Il carnevale offriva anche l'occasione di commentare gli avvenimenti del momento attraverso costumi e satira. Queste usanze appartengono al patrimonio vivente della città, tramandato dalle comunità locali e non soltanto conservato nelle raccolte museali.",
+      "sourceTextSha256": "d9ebb0f8290e3e86b3a69d91eb7c62ddd21e54ebfcae11f66420dce3e4f7df7c",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 19,
+      "title": "San Nicola: una chiesa di epoca diversa",
+      "text": "La chiesa di San Nicola appartiene a un'epoca molto più recente rispetto alla vicina chiesa medievale di San Luca. La costruzione dell'attuale edificio ortodosso iniziò nel 1902 e terminò nel 1909. Sostituì una chiesa precedente, distrutta nel corso dell'Ottocento. Il progetto fu affidato all'architetto Ćiril Iveković, noto per i suoi edifici civili e religiosi lungo la costa adriatica. La facciata monumentale e i due campanili conferiscono alla chiesa una presenza caratteristica nella parte settentrionale della città vecchia. L'iconostasi fu completata nel 1908 da artigiani cechi. Le date 1902, 1908 e 1909 documentano le principali tappe della sua realizzazione. La chiesa ricorda così che il centro storico di Cattaro non ha smesso di trasformarsi nel Medioevo: ha continuato ad accogliere nuove architetture religiose anche nel XX secolo.",
+      "sourceTextSha256": "eb1f25914e5835ec1358de456cc823e4b744c096d78148606e9c0902521380e8",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 20,
+      "title": "Porta del Fiume: l'ingresso settentrionale",
+      "text": "L'ingresso settentrionale di Cattaro, conosciuto anche come Porta del Fiume, si apre verso la Škurda. Insieme alla Porta del Mare, a ovest, e alla porta di Gurdić, a sud, costituisce uno dei tre accessi principali alla città murata. La Porta del Fiume fu ricostruita nel 1540 durante il dominio veneziano, a ricordo della difesa della città contro la flotta di Hayreddin Barbarossa nel 1539. Un tempo l'ingresso era dotato di un ponte levatoio collegato al ponte in pietra sulla Škurda, che permetteva di limitare il passaggio nei momenti di pericolo. Gli stemmi e le iscrizioni in pietra presso la porta conservano le date 1539 e 1540. Il complesso mostra come le fortificazioni di Cattaro unissero mura, corsi d'acqua e accessi controllati per assicurare la difesa della città.",
+      "sourceTextSha256": "c7993c873099250df62e93481adb748099cd5082d3be574f6c30c6c07aaabebb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 21,
+      "title": "Il fiume Škurda",
+      "text": "Il fiume Škurda delimita parte del margine settentrionale di Cattaro e costituisce un elemento importante del suo sistema difensivo. Le mura furono disposte in modo da sfruttare la montagna, la baia e i corsi d'acqua locali. Questa combinazione aiuta a comprendere perché le fortificazioni siano state ampliate e modificate, approssimativamente dal IX al XVIII secolo. L'acqua influenzava anche la vita quotidiana degli abitanti. La città aveva bisogno di fonti sicure di approvvigionamento, mentre canali, sbocchi e ponti condizionavano gli spostamenti e la manutenzione degli spazi urbani. Il valore di questo contesto geografico è riconosciuto dall'iscrizione UNESCO del 1979. La descrizione del sito non riguarda soltanto i monumenti, ma anche il rapporto tra gli insediamenti costieri e la baia racchiusa da montagne ripide. La Škurda è un elemento ben visibile di questo legame tra natura e architettura.",
+      "sourceTextSha256": "9597bd625680585e7ea2bfc796567c5ec10f6ca806f3c3addddbbb92839033a6",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 22,
+      "title": "Le mura che risalgono la montagna",
+      "text": "Le mura difensive si innalzano dalla città vecchia verso la fortezza di San Giovanni, a circa 260 metri sul livello del mare. Sono il risultato di diverse fasi costruttive, comprese approssimativamente tra il IX e il XVIII secolo. Secondo il Comune di Kotor, il sistema fortificato si sviluppa per circa 4,5 chilometri. Alcuni tratti raggiungono venti metri di altezza, mentre lo spessore varia a seconda del luogo e della funzione. Queste dimensioni mostrano la portata dell'opera per una città portuale relativamente compatta. Le fortificazioni dovevano proteggere sia le strade abitate in basso, sia gli accessi provenienti dalla montagna. Durante il governo veneziano, dal 1420 al 1797, Cattaro faceva parte di una più ampia rete difensiva adriatica. Oggi le mura sono un elemento fondamentale del paesaggio riconosciuto dall'UNESCO; la loro conservazione resta tuttavia un impegno continuo.",
+      "sourceTextSha256": "a89ea4eb3e03cbbb42bc999423cd727b6bf45478dd9ac04235064056e4052f03",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 23,
+      "title": "Karampana: la fontana e la vita del quartiere",
+      "text": "Karampana è il nome di una fontana pubblica storica e di un luogo d'incontro nella città vecchia di Cattaro. Secondo la tradizione locale, la fontana risalirebbe al XVII secolo. Prima che l'acqua fosse disponibile in ogni casa, le fontane pubbliche avevano un ruolo fondamentale nelle attività domestiche e nelle relazioni tra vicini. Karampana è ricordata come un luogo in cui gli abitanti scambiavano notizie mentre attingevano acqua. Il nome appartiene anche alla tradizione umoristica e carnevalesca locale: un giornale satirico intitolato Karampana ha raccontato persone e avvenimenti cittadini. Queste testimonianze non vanno confuse con una data certa di fondazione della fontana, che richiede ulteriori verifiche specialistiche. Mostrano però l'importanza degli spazi pubblici più piccoli nella vita di una città fatta di abitazioni, botteghe e laboratori artigiani.",
+      "sourceTextSha256": "fa704eddd0a06667e04f6087c12750b5c23536a38e22b7ab6eeb3390211773b8",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 24,
+      "title": "Palazzi e famiglie nobili",
+      "text": "I palazzi nobiliari di Cattaro conservano la memoria di famiglie influenti nella vita civica e nei commerci. Palazzo Drago, affacciato su Piazza San Trifone, ha origini tra il XIV e il XV secolo e conserva elementi gotici. Lo stemma della famiglia comprende un drago, motivo presente anche nella decorazione in pietra. Palazzo Bizanti risale al Trecento e fu ampiamente trasformato dopo il terremoto del 1667; la data 1674 è legata alla ricostruzione. Palazzo Pima appartiene invece al Seicento ed è noto per il balcone riccamente lavorato e lo stemma di famiglia. Questi edifici non sono semplici esempi equivalenti di ricchezza: ciascuno possiede una storia costruttiva, un linguaggio decorativo e un rapporto particolare con le strade vicine. Nel loro insieme dimostrano come le famiglie nobili commissionassero opere agli artigiani locali, contribuendo a modellare l'aspetto della città nel corso dei secoli.",
+      "sourceTextSha256": "064d3b83ee61a35a9fbc1e5b659eb42a0329b87d3c37fd54a4dcc4d38a633cdb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 25,
+      "title": "Piazza della Farina e Palazzo Pima",
+      "text": "Piazza della Farina, chiamata localmente Pjaca od brašna, deve il proprio nome al commercio quotidiano di alimenti e provviste. Il suo monumento più caratteristico è Palazzo Pima, residenza del XVII secolo con elementi rinascimentali e barocchi. Un ampio balcone in pietra poggia su dodici mensole scolpite; la ringhiera in ferro battuto testimonia la lavorazione artigianale dei metalli. Sopra l'ingresso principale, due angeli scolpiti sorreggono lo stemma della famiglia Pima. Il palazzo fu restaurato dopo il terremoto del 1979. Nei dintorni sorgevano altre case di famiglie attive nei commerci e nella vita pubblica della città. La piazza riunisce così due aspetti della storia urbana: la circolazione dei beni di prima necessità e l'esibizione del prestigio delle famiglie più importanti. Entrambi dipendevano dal lavoro di artigiani, trasportatori, mercanti e fornitori.",
+      "sourceTextSha256": "4403310f2c1243db77b5b42435623db71a8b3918001f816249a52e11e5f6eacf",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 26,
+      "title": "Gli artigiani che hanno dato forma alla città",
+      "text": "Gli edifici di Cattaro testimoniano il lavoro di scalpellini, falegnami, orafi e altri artigiani specializzati. L'UNESCO sottolinea in particolare le tradizioni medievali della lavorazione della pietra e della pittura nella regione. Un'altra attività caratteristica si è sviluppata a Dobrota, centro marinaro vicino alla città: il merletto di Dobrota, o dobrotska čipka, una particolare tecnica di ricamo e lavorazione a mano. Gli esempi storici erano destinati a tessuti cerimoniali, corredi domestici e arredi ecclesiastici. Questa tradizione è strettamente legata alle donne delle famiglie di marinai ed è stata trasmessa di generazione in generazione. La sua evoluzione riflette contatti con le tecniche di ricamo e merletto diffuse sulle coste dell'Adriatico. La lavorazione del merletto di Dobrota è riconosciuta come patrimonio culturale immateriale del Montenegro. Esemplari antichi sono conservati in collezioni ecclesiastiche e museali, mentre laboratori contemporanei continuano a insegnare la tecnica. Anche quest'arte fa parte della storia della baia, accanto ai palazzi e alle navi.",
+      "sourceTextSha256": "e8c1cb7d7f830eb6e4d7a4e2bdf4f24610ac97746dfd9cbe65f66f135cee85af",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 27,
+      "title": "La vita quotidiana: gatti e dolci tradizionali",
+      "text": "I gatti sono diventati un simbolo non ufficiale di Cattaro, ma la cultura quotidiana della città comprende anche i dolci della tradizione. La kotorska pašta, una specialità locale simile alla krempita, è ricordata per gli strati di pasta croccante e la crema gialla alla vaniglia. È legata in particolare alla memoria della storica pasticceria Zdravljak, nei pressi di Piazza San Trifone, dove diverse generazioni di abitanti acquistavano questo dolce. La ricetta tradizionale prevede tre strati di pasta. Nel 2019 furono organizzati anche laboratori dedicati alla conservazione e alla trasmissione della preparazione. Un'altra specialità proviene dalla vicina Dobrota: la torta di Dobrota, preparata con mandorle, uova e ingredienti come il liquore al maraschino e la scorza di limone. Veniva servita soprattutto in occasione di matrimoni, Natale, Pasqua e altre importanti feste familiari. La tradizione della torta di Dobrota, detta anche di Dobrota e Perasto, figura tra i beni culturali immateriali del Montenegro. Questi dolci raccontano la storia degli ingredienti, dei gusti e delle consuetudini familiari della baia.",
+      "sourceTextSha256": "2ad8765c4840e89c7e6f81c34240af88863de56bc6fd002d70f3c7db9fab0b4d",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 28,
+      "title": "Il terremoto del 1979 e la ricostruzione",
+      "text": "Il 15 aprile 1979 un violento terremoto colpì la costa montenegrina, causando gravi danni agli edifici storici di Cattaro. Chiese, palazzi, mura cittadine e collezioni museali richiesero interventi di tutela. Nello stesso anno l'UNESCO iscrisse la Regione naturale e storico-culturale di Cattaro nella Lista del Patrimonio Mondiale. Il sito fu inserito anche nella Lista del Patrimonio Mondiale in Pericolo, dalla quale uscì nel 2003. La conservazione richiese la collaborazione di istituzioni locali e internazionali; nel 1980 venne istituito un organismo comunale per la tutela del patrimonio culturale. Palazzo Grgurina, sede del Museo Marittimo, fu sottoposto a importanti lavori di restauro tra il 1982 e il 1984, permettendo il ritorno delle collezioni all'esposizione pubblica. La ripresa non consistette quindi soltanto nella ricostruzione materiale: cambiò anche il modo in cui la città documentava, amministrava e proteggeva il proprio patrimonio storico.",
+      "sourceTextSha256": "cd07d7b2c6a828028b40a7cac770a2b8a1aae32a96b31227ad632685af396fdb",
+      "qualityFlags": [],
+      "humanReviewed": false
+    },
+    {
+      "number": 29,
+      "title": "Cattaro oggi: una storia che continua",
+      "text": "Il centro storico di Cattaro è il risultato di oltre mille anni di costruzioni, commerci, vita religiosa e trasformazioni culturali. Tra gli edifici di culto più antichi figurano il santuario del IX secolo legato a San Trifone, la cattedrale consacrata nel 1166 e la chiesa di San Luca, costruita nel 1195. Il dominio veneziano, dal 1420 al 1797, ha lasciato un segno duraturo sugli edifici pubblici e sui palazzi. Il terremoto del 1979 ha portato a vasti interventi di restauro e, nello stesso anno, al riconoscimento UNESCO della regione. Il patrimonio della città vive però anche attraverso tradizioni ancora praticate: nel 2021 l'UNESCO ha iscritto la Bokeljska mornarica tra i patrimoni culturali immateriali, mentre i documenti d'archivio attestano usanze carnevalesche almeno dal 1508. Oggi monumenti e tradizioni convivono con la vita degli abitanti e con il turismo. Conservare Cattaro significa tutelare gli edifici, sostenere le comunità locali e tramandare una storia raccontata con precisione.",
+      "sourceTextSha256": "76aa300f97dbe8242eb37ee6dd97a39f1a113b6da9468def010bab414f30f934",
+      "qualityFlags": [],
+      "humanReviewed": false
+    }
+  ],
+  "editorialNote": "Revisione linguistica e confronto con il testo sorgente inglese; resta necessaria una verifica da parte di un revisore madrelingua prima della pubblicazione commerciale."
+}

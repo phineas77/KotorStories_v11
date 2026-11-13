@@ -7,7 +7,7 @@ import Storage from 'expo-sqlite/kv-store';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
 import { languages, type Language } from './src/stops';
-import { storiesContent } from './src/storiesContent';
+import { storiesContent, translationCount, translatedTitle, translatedText } from './src/storiesContent';
 import { tourZones, type TourZone } from './src/poiMap';
 import { cleanupUnprotectedLegacyAudio, clearPlaybackFile, deleteProtectedPack, downloadSecurePack, fetchSecureManifest, playbackUri, securePackStatus, savedHost, saveHost, sizeMB, unlockDemo, type SecurePackStatus } from './src/securePacks';
 
@@ -48,8 +48,8 @@ function Tour(){
   const player=useAudioPlayer(null,{updateInterval:300});
   const playback=useAudioPlayerStatus(player);
   const chapter=selectedChapter ? storiesContent[selectedChapter-1] : null;
-  const displayTitle=(n:number)=>{const c=storiesContent[n-1];return language==='me'?c.title_me:c.title_en;};
-  const displayText=(n:number)=>{const c=storiesContent[n-1];return language==='me'?c.me:c.en;};
+  const displayTitle=(n:number)=>translatedTitle(language,n);
+  const displayText=(n:number)=>translatedText(language,n);
   const selectedPin=tourZones.find(z=>z.id===selectedZone);
   const visibleChapters=selectedZone?storiesContent.filter(c=>c.zone===selectedZone):storiesContent;
   const currentZone=selectedPin||tourZones[0];
@@ -132,7 +132,7 @@ function Tour(){
     <ScrollView contentContainerStyle={{paddingBottom:45}} keyboardShouldPersistTaps="handled">
       <View style={s.hero}>
         <Text style={s.brand}>KOTOR <Text style={{color:gold}}>STORIES</Text></Text>
-        <Text style={s.kicker}>MANUAL MAP TOUR · PROTECTED AUDIO · DEV 1.2.1 EAS</Text>
+        <Text style={s.kicker}>MANUAL MAP TOUR · 6 LANGUAGES · DEV 1.3</Text>
         <Text style={s.headline}>Discover Old Kotor</Text>
         <Text style={s.heroSubtitle}>29 stories · approx. 60-minute walking tour</Text>
         <Text style={s.heroSubtitle}>Choose a place on the map, then start its story yourself.</Text>
@@ -144,7 +144,8 @@ function Tour(){
             <Text style={[s.langText,language===l.id&&{color:'white'}]}>{l.label}</Text>
           </Pressable>)}
         </ScrollView>
-        {language!=='en'&&language!=='me'&&<Text style={s.hint}>Original texts are currently available in English and Montenegrin. Additional translations and narration are pending.</Text>}
+        {language!=='en'&&language!=='me'&&translationCount(language)<29&&<Text style={s.hint}>Translation draft unavailable ({translationCount(language)}/29). English text is temporarily shown until you run the local translation script. Do not publish untranslated chapters.</Text>}
+        {language!=='en'&&language!=='me'&&translationCount(language)===29&&<Text style={s.hint}>Draft translation · 29/29 chapters. Verify local names, years and grammar with a native speaker before commercial publication.</Text>}
         <View style={s.mapHeader}>
           <Text style={s.section}>EXPLORE THE OLD TOWN</Text>
           <Text style={s.small}>{tourZones.length} mapped areas · 29 stories</Text>
